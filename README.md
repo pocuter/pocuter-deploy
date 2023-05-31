@@ -1,5 +1,5 @@
 # PocuterUtil :: pocuter-deploy -- Pocuter Application Deployment Tool
-**This command line tool compiles, packages, and uploads a Pocuter application to a ['Code Upload Server'](../).**
+**This command line tool compiles, packages, and uploads a Pocuter application to a ['Code Upload Server'](https://github.com/pocuter/Pocuter-One_Apps/tree/main/CodeUploader/).**
 
 
 ## Tool Features
@@ -10,10 +10,13 @@
 - Environment variables for persisting commonly used options
 
 ## Software Requirements
-- [Pocuter app converter](https://github.com/pocuter)
+- [Pocuter app converter](https://github.com/pocuter/appconverter-java)
 - [arduino-cli](https://arduino.github.io/arduino-cli/latest/installation)
 - Python3
 - curl
+
+## Example Video
+[![Watch command-line example video](https://img.youtube.com/vi/JJ2Mj7UDr4I/default.jpg)](https://youtu.be/JJ2Mj7UDr4I)
 
 ## Tool Usage
 This tool is designed to be run from the root folder of an Arduino project from a Linux, WSL, or MacOS terminal. In this folder it expects there to be a Pocuter application metadata file having the same name as the folder and ending in ***'.ini'***
