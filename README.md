@@ -1,4 +1,4 @@
-# PocuterUtil :: pocuter-deploy -- Pocuter Application Deployment Tool
+# pocuter-deploy -- Pocuter Application Deployment Tool
 **This command line tool compiles, packages, and uploads a Pocuter application to a ['Code Upload Server'](https://github.com/pocuter/Pocuter-One_Apps/tree/main/CodeUploader/).**
 
 
